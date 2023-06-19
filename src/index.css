@@ -1,0 +1,12 @@
+/* Autor: Álvaro Pereira
+ Fecha: ??-??-??
+ Nombre: index.css
+ Descripción: Hoja de estilos para el index.html 
+ */
+
+ body {
+  background-color: #AFF9B2;
+  font-family: 'Dosis', sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+}
